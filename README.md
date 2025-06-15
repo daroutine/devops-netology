@@ -4,36 +4,36 @@
 
 # Задание 1. Знакомимся с GitLab и Bitbucket
 
-![Скриншот 1](https://github.com/daroutine/devops-netology/blob/main/screenshots2/1.JPG) 
-![Скриншот 2](https://github.com/daroutine/devops-netology/blob/main/screenshots2/2.JPG) 
-![Скриншот 3](https://github.com/daroutine/devops-netology/blob/main/screenshots2/3.JPG) 
-![Скриншот 4](https://github.com/daroutine/devops-netology/blob/main/screenshots2/4.JPG) 
-![Скриншот 5](https://github.com/daroutine/devops-netology/blob/main/screenshots2/5.JPG) 
+![Скриншот 1](https://github.com/daroutine/devops-netology/blob/main/screenshots2/1.jpg) 
+![Скриншот 2](https://github.com/daroutine/devops-netology/blob/main/screenshots2/2.jpg) 
+![Скриншот 3](https://github.com/daroutine/devops-netology/blob/main/screenshots2/3.jpg) 
+![Скриншот 4](https://github.com/daroutine/devops-netology/blob/main/screenshots2/4.jpg) 
+![Скриншот 5](https://github.com/daroutine/devops-netology/blob/main/screenshots2/5.jpg) 
 
 https://gitlab.com/daroutine-group/devops-netology
 
 # Задание 2. Теги
 
-![Скриншот 6](https://github.com/daroutine/devops-netology/blob/main/screenshots2/6.JPG) 
-![Скриншот 7](https://github.com/daroutine/devops-netology/blob/main/screenshots2/7.JPG) 
-![Скриншот 8](https://github.com/daroutine/devops-netology/blob/main/screenshots2/8.JPG) 
-![Скриншот 9](https://github.com/daroutine/devops-netology/blob/main/screenshots2/9.JPG) 
-![Скриншот 10](https://github.com/daroutine/devops-netology/blob/main/screenshots2/10.JPG) 
-![Скриншот 11](https://github.com/daroutine/devops-netology/blob/main/screenshots2/11.JPG) 
-![Скриншот 12](https://github.com/daroutine/devops-netology/blob/main/screenshots2/12.JPG) 
-![Скриншот 13](https://github.com/daroutine/devops-netology/blob/main/screenshots2/13.JPG) 
+![Скриншот 6](https://github.com/daroutine/devops-netology/blob/main/screenshots2/6.jpg) 
+![Скриншот 7](https://github.com/daroutine/devops-netology/blob/main/screenshots2/7.jpg) 
+![Скриншот 8](https://github.com/daroutine/devops-netology/blob/main/screenshots2/8.jpg) 
+![Скриншот 9](https://github.com/daroutine/devops-netology/blob/main/screenshots2/9.jpg) 
+![Скриншот 10](https://github.com/daroutine/devops-netology/blob/main/screenshots2/10.jpg) 
+![Скриншот 11](https://github.com/daroutine/devops-netology/blob/main/screenshots2/11.jpg) 
+![Скриншот 12](https://github.com/daroutine/devops-netology/blob/main/screenshots2/12.jpg) 
+![Скриншот 13](https://github.com/daroutine/devops-netology/blob/main/screenshots2/13.jpg) 
 
 # Задание 3. Ветки
-![Скриншот 14](https://github.com/daroutine/devops-netology/blob/main/screenshots2/14.JPG) 
-![Скриншот 15](https://github.com/daroutine/devops-netology/blob/main/screenshots2/15.JPG) 
-![Скриншот 16](https://github.com/daroutine/devops-netology/blob/main/screenshots2/16.JPG) 
-![Скриншот 17](https://github.com/daroutine/devops-netology/blob/main/screenshots2/17.JPG) 
-![Скриншот 18](https://github.com/daroutine/devops-netology/blob/main/screenshots2/18.JPG) 
+![Скриншот 14](https://github.com/daroutine/devops-netology/blob/main/screenshots2/14.jpg) 
+![Скриншот 15](https://github.com/daroutine/devops-netology/blob/main/screenshots2/15.jpg) 
+![Скриншот 16](https://github.com/daroutine/devops-netology/blob/main/screenshots2/16.jpg) 
+![Скриншот 17](https://github.com/daroutine/devops-netology/blob/main/screenshots2/17.jpg) 
+![Скриншот 18](https://github.com/daroutine/devops-netology/blob/main/screenshots2/18.jpg) 
 
 # Задание 4. Упрощаем себе жизнь
 задание было сделано в графическом редакторе vscode
 
-![Скриншот 19](https://github.com/daroutine/devops-netology/blob/main/screenshots2/19.JPG) 
+![Скриншот 19](https://github.com/daroutine/devops-netology/blob/main/screenshots2/19.jpg) 
 
 
 
