@@ -4,7 +4,9 @@
 # Домашнее задание к занятию 2. «Применение принципов IaaC в работе с виртуальными машинами»
 
 ![Скриншот 1](https://github.com/daroutine/devops-netology/blob/main/screenshots3/1.JPG) 
+
 ![Скриншот 1](https://github.com/daroutine/devops-netology/blob/main/screenshots3/2.JPG) 
+
 ![Скриншот 1](https://github.com/daroutine/devops-netology/blob/main/screenshots3/3.JPG) 
 
 
