@@ -1,4 +1,14 @@
 # devops-netology
+
+
+# Домашнее задание к занятию 2. «Применение принципов IaaC в работе с виртуальными машинами»
+
+![Скриншот 1](https://github.com/daroutine/devops-netology/blob/main/screenshots3/1.JPG) 
+![Скриншот 1](https://github.com/daroutine/devops-netology/blob/main/screenshots3/2.JPG) 
+![Скриншот 1](https://github.com/daroutine/devops-netology/blob/main/screenshots3/3.JPG) 
+
+
+
 # Домашнее задание по лекции "Основы Git"
 Автор: Зарецкий Юрий
 
@@ -89,3 +99,6 @@ terraform.rc - будут проигнорированы все файлы с и
 ![Скриншот 15](https://github.com/daroutine/devops-netology/blob/main/screenshots/15.JPG)
 ![Скриншот 16](https://github.com/daroutine/devops-netology/blob/main/screenshots/16.JPG)
 ![Скриншот 17](https://github.com/daroutine/devops-netology/blob/main/screenshots/17.JPG)
+
+
+
