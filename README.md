@@ -1,4 +1,96 @@
 # devops-netology
+
+# Домашнее задание к занятию 4 «Оркестрация группой Docker контейнеров на примере Docker Compose»
+
+# Задание 1.
+
+![Скриншот 1](https://github.com/daroutine/devops-netology/blob/git-rebase/screenshots4/1.JPG) 
+
+![Скриншот 2](https://github.com/daroutine/devops-netology/blob/git-rebase/screenshots4/2.JPG) 
+
+![Скриншот 3](https://github.com/daroutine/devops-netology/blob/git-rebase/screenshots4/3.JPG) 
+
+![Скриншот 4](https://github.com/daroutine/devops-netology/blob/git-rebase/screenshots4/4.JPG)
+
+![Скриншот 5](https://github.com/daroutine/devops-netology/blob/git-rebase/screenshots4/5.JPG)
+
+![Скриншот 6](https://github.com/daroutine/devops-netology/blob/git-rebase/screenshots4/6.JPG) 
+
+![Скриншот 7](https://github.com/daroutine/devops-netology/blob/git-rebase/screenshots4/7.JPG) 
+
+![Скриншот 8](https://github.com/daroutine/devops-netology/blob/git-rebase/screenshots4/8.JPG) 
+
+![Скриншот 9](https://github.com/daroutine/devops-netology/blob/git-rebase/screenshots4/9.JPG)
+
+![Скриншот 10](https://github.com/daroutine/devops-netology/blob/git-rebase/screenshots4/10.JPG)
+
+# Задание 2.
+
+![Скриншот 11](https://github.com/daroutine/devops-netology/blob/git-rebase/screenshots4/21.JPG) 
+
+# Задание 3.
+
+![Скриншот 12](https://github.com/daroutine/devops-netology/blob/git-rebase/screenshots4/31.JPG) 
+
+![Скриншот 13](https://github.com/daroutine/devops-netology/blob/git-rebase/screenshots4/32.JPG) 
+
+![Скриншот 14](https://github.com/daroutine/devops-netology/blob/git-rebase/screenshots4/33.JPG) 
+
+![Скриншот 15](https://github.com/daroutine/devops-netology/blob/git-rebase/screenshots4/34.JPG) 
+
+![Скриншот 16](https://github.com/daroutine/devops-netology/blob/git-rebase/screenshots4/35.JPG) 
+
+![Скриншот 17](https://github.com/daroutine/devops-netology/blob/git-rebase/screenshots4/36.JPG) 
+
+# Задание 4.
+
+![Скриншот 18](https://github.com/daroutine/devops-netology/blob/git-rebase/screenshots4/41.JPG) 
+
+![Скриншот 19](https://github.com/daroutine/devops-netology/blob/git-rebase/screenshots4/42.JPG) 
+
+![Скриншот 20](https://github.com/daroutine/devops-netology/blob/git-rebase/screenshots4/43.JPG) 
+
+![Скриншот 21](https://github.com/daroutine/devops-netology/blob/git-rebase/screenshots4/44.JPG) 
+
+![Скриншот 22](https://github.com/daroutine/devops-netology/blob/git-rebase/screenshots4/45.JPG) 
+
+![Скриншот 23](https://github.com/daroutine/devops-netology/blob/git-rebase/screenshots4/46.JPG) 
+
+# Задание 5
+
+
+![Скриншот 24](https://github.com/daroutine/devops-netology/blob/git-rebase/screenshots4/51.JPG) 
+
+![Скриншот 25](https://github.com/daroutine/devops-netology/blob/git-rebase/screenshots4/52.JPG) 
+
+![Скриншот 26](https://github.com/daroutine/devops-netology/blob/git-rebase/screenshots4/53.JPG) 
+
+![Скриншот 27](https://github.com/daroutine/devops-netology/blob/git-rebase/screenshots4/54.JPG) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Домашнее задание к занятию 2. «Применение принципов IaaC в работе с виртуальными машинами»
+
+![Скриншот 1](https://github.com/daroutine/devops-netology/blob/git-rebase/screenshots3/1.JPG) 
+
+![Скриншот 1](https://github.com/daroutine/devops-netology/blob/git-rebase/screenshots3/2.JPG) 
+
+![Скриншот 1](https://github.com/daroutine/devops-netology/blob/git-rebase/screenshots3/3.JPG) 
+
+
+
 # Домашнее задание по лекции "Основы Git"
 Автор: Зарецкий Юрий
 
@@ -89,3 +181,6 @@ terraform.rc - будут проигнорированы все файлы с и
 ![Скриншот 15](https://github.com/daroutine/devops-netology/blob/main/screenshots/15.JPG)
 ![Скриншот 16](https://github.com/daroutine/devops-netology/blob/main/screenshots/16.JPG)
 ![Скриншот 17](https://github.com/daroutine/devops-netology/blob/main/screenshots/17.JPG)
+
+
+
